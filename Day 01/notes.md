@@ -134,3 +134,8 @@ This foundation will be crucial as I work on more complex input-driven programs.
 ## 🔗 Related
 
 - 🔎 Code: [input_output.java](./input_output.java)
+
+### 📚 Practice Problems
+
+* **Question 1: Sum and Product of Two Numbers:** [Question1.java](./Practice_Questions/Question1.java)
+* **Question 2: Calculate Average of Three Numbers:** [Question2.java](./Practice_Questions/Question2.java)
