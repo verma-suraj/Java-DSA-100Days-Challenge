@@ -7,7 +7,7 @@ Calculate the area of a circle given its radius.
 - Use Math.PI constant for π value.
 
 📊 Time Complexity:
-O(1), constant time calculation.
+O(1), constant time calculation. 
 
 💾 Space Complexity:
 O(1), only a few variables used.
