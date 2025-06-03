@@ -133,9 +133,9 @@ This foundation will be crucial as I work on more complex input-driven programs.
 
 ## 🔗 Related
 
-- 🔎 Code: [input_output.java](./input_output.java)
+- 🔎 Code: [input_output.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day%2001/Practice_Problems/input_output.java)
 
 ### 📚 Practice Problems
 
-* **Question 1: Sum and Product of Two Numbers:** [Question1.java](./Practice_Questions/Question1.java)
-* **Question 2: Calculate Average of Three Numbers:** [Question2.java](./Practice_Questions/Question2.java)
+* **Question 1: Sum and Product of Two Numbers:** [Question1.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day%2001/Practice_Problems/circle_area.java)
+* **Question 2: Calculate Average of Three Numbers:** [Question2.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day%2001/Practice_Problems/multiplication_table.java)
