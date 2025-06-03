@@ -12,19 +12,25 @@
 
 ---
 
-## 📌 Key Concepts
+## 📌 Theory & Key Concepts
 
-### 🔹 Importing Scanner
+### 🔹 Input and Output in Java
 
-To use `Scanner`, we need to import it from the `java.util` package:
+Input and output (I/O) are essential for interacting with users or other systems.  
+Java provides easy-to-use classes for handling I/O from the console.
+
+### 🔹 Scanner Class for Input
+
+The `Scanner` class in Java is used to read user input from various sources, like keyboard input (`System.in`).  
+It supports reading many data types: integers, floats, strings, etc.
+
+Before using `Scanner`, you need to import it:
 
 ```java
 import java.util.Scanner;
 ```
 
----
-
-### 🔹 Creating a Scanner Object
+Then, create a Scanner object to read input:
 
 ```java
 Scanner sc = new Scanner(System.in);
@@ -32,39 +38,60 @@ Scanner sc = new Scanner(System.in);
 
 ---
 
-### 🔹 Taking Different Types of Input
+### 🔹 Reading Different Data Types
+
+- `nextInt()`: Reads an integer value  
+- `next()`: Reads a single word (until whitespace)  
+- `nextLine()`: Reads an entire line including spaces  
+- `nextFloat()`: Reads a floating-point number
+
+Example usage:
 
 ```java
-int number = sc.nextInt();         // For integers
-String word = sc.next();           // For a single word
-String line = sc.nextLine();       // For full line input
-float price = sc.nextFloat();      // For float values
+int number = sc.nextInt();
+String word = sc.next();
+String line = sc.nextLine();
+float price = sc.nextFloat();
 ```
 
-> 🔸 `next()` reads a single word (stops at space), while `nextLine()` reads the entire line including spaces.
+> **Note:** `next()` reads input until it encounters a space, while `nextLine()` reads the entire line including spaces.
 
 ---
 
-### 🔹 Output in Java
+### 🔹 Printing Output
+
+You can print text or variables to the console using:
+
+- `System.out.print()`: Prints without moving to a new line  
+- `System.out.println()`: Prints and moves to the next line
+
+Example:
 
 ```java
-System.out.print("Hello ");       // Prints on same line
-System.out.println("World!");     // Prints and moves to next line
+System.out.print("Hello ");
+System.out.println("World!");
+```
+
+Output:
+
+```
+Hello World!
 ```
 
 ---
 
-## 🧠 Tips & Edge Cases
+## 🧠 Common Issues & Tips
 
-- After using `nextInt()` or `next()`, if you use `nextLine()`, it may skip input because of leftover newline characters. Use an extra `sc.nextLine();` to clear it.
+- When mixing `nextInt()` (or other non-string inputs) with `nextLine()`, you may face an input skipping problem due to leftover newline characters in the input buffer.  
+  To fix this, add an extra `sc.nextLine();` after the numeric input to consume the leftover newline.
 
 ```java
 int age = sc.nextInt();
-sc.nextLine(); // clear buffer
+sc.nextLine();  // Consume the leftover newline
 String name = sc.nextLine();
 ```
 
-- Always close the `Scanner` object after use to avoid memory leaks:
+- Always close the `Scanner` object when done to free system resources:
 
 ```java
 sc.close();
@@ -98,9 +125,9 @@ public class InputOutputDemo {
 
 ## 💡 Personal Takeaway
 
-Today I learned how user input actually works in Java and the difference between various input methods.  
-I also faced the classic `nextLine()` skip issue after using `nextInt()`, but now I understand why and how to fix it.  
-This will help a lot going forward when dealing with real input-heavy programs.
+Today I learned how Java handles user input and output through the `Scanner` class and `System.out` methods.  
+Understanding the difference between various input methods (`next()`, `nextLine()`, `nextInt()`) and how to handle the newline issue will help me avoid common bugs.  
+This foundation will be crucial as I work on more complex input-driven programs.
 
 ---
 
