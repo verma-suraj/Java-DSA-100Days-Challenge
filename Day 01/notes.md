@@ -137,5 +137,5 @@ This foundation will be crucial as I work on more complex input-driven programs.
 
 ### 📚 Practice Problems
 
-* **Question 1: Sum and Product of Two Numbers:** [Question1.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day%2001/Practice_Problems/circle_area.java)
-* **Question 2: Calculate Average of Three Numbers:** [Question2.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day%2001/Practice_Problems/multiplication_table.java)
+* **Question 1: Calculate the area of a circle given its radius.** [Question1.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day%2001/Practice_Problems/circle_area.java)
+* **Question 2: Print the multiplication table of a given number from 1 to 10.** [Question2.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day%2001/Practice_Problems/multiplication_table.java)
