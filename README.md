@@ -4,6 +4,8 @@ Welcome to my #100DaysOfCode challenge!
 I'm Suraj Kumar Verma, a BTech’28 student, learning **Java and Data Structures** one day at a time.  
 This repository documents my progress, code, notes, and dry runs — as I grow as a developer in public.
 
+👉 Follow my daily learning journey on Twitter/X: [@surajverma__07](https://x.com/surajverma__07)
+
 ---
 
 ## 📅 Challenge Overview
