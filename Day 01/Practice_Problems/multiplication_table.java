@@ -6,12 +6,6 @@ Print the multiplication table of a given number from 1 to 10.
 - Multiply the input number with integers from 1 to 10.
 - Print the results in the format: number x i = product.
 
-📊 Time Complexity:
-O(1), fixed 10 lines printed.
-
-💾 Space Complexity:
-O(1), only a few variables used.
-
 ⚠️ Edge Cases:
 - No special edge cases for positive or negative numbers here.
 
