@@ -6,12 +6,6 @@ Calculate the area of a circle given its radius.
 - Area of a circle = π * r^2
 - Use Math.PI constant for π value.
 
-📊 Time Complexity:
-O(1), constant time calculation. 
-
-💾 Space Complexity:
-O(1), only a few variables used.
-
 ⚠️ Edge Cases:
 - Radius zero or negative (not handled explicitly here).
 
