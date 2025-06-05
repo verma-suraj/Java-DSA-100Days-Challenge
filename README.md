@@ -23,7 +23,7 @@ This repository documents my progress, code, notes, and dry runs — as I grow a
 |-----|----------------------------------|----------------------------|----------|
 | 01  | Input/Output                     | [Notes](Day%2001/notes.md)   | ✅ Done  |
 | 02  | Data Types, Variables, and Operators | [Notes](Day%2002/notes.md) | ✅ Done  |
-| 03  | ....                            | Notes  | ⏳ Pending |
+| 03  | Conditional Statements (if, else, switch, break) | [Notes](Day%2003/notes.md) | ✅ Done  |
 | ... | ...                            | ...                        | ...      |
 | 100 | Final Review                   | Notes  | ⏳ Pending |
 
