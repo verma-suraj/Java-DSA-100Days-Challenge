@@ -118,13 +118,15 @@ switch (day) {
 ### 📚 Practice Problems
 
 * **Question 1: Count how many numbers are zero, positive, or negative until the user exits.**  
-  [ount_input_types.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day%2003/Practice_Problems/count_input_types.java)
+  [count_number_types.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day%2003/Practice_Problems/count_number_types.java)
 
 * **Question 2: Classify marks into performance categories with input validation.**  
   [grade_classifier.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day%2003/Practice_Problems/grade_classifier.java)
+
+* **Question 3: Given a number from 1 to 12, print the corresponding month name.**  
+  [MonthName.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day%2003/Practice_Problems/MonthName.java)
 
 
 ## 💡 Personal Takeaway
 
 Understanding conditionals gives the power to control the flow of a program. Now, I can make decisions in code, just like we do in real life!
-
