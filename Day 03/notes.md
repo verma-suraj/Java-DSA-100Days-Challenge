@@ -113,12 +113,12 @@ switch (day) {
 
 ## 🔗 Related
 
-- 🔎 Code: [condition_examples.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day%2003/condition_examples.java)
+- 🔎 Code: [condition_examples.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day%2003/Practice_Problems/condition_examples.java)
 
 ### 📚 Practice Problems
 
 * **Question 1: Count how many numbers are zero, positive, or negative until the user exits.**  
-  [count_number_types.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day%2003/Practice_Problems/count_number_types.java)
+  [ount_input_types.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day%2003/Practice_Problems/count_input_types.java)
 
 * **Question 2: Classify marks into performance categories with input validation.**  
   [grade_classifier.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day%2003/Practice_Problems/grade_classifier.java)
