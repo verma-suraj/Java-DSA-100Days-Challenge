@@ -126,8 +126,8 @@ switch (day) {
 * **Question 3: Given a number from 1 to 12, print the corresponding month name.**  
   [MonthName.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day%2003/Practice_Problems/MonthName.java)
 
-* **Question 4: Build a simple calculator that performs basic arithmetic operations (+, -, *, /, %) on two user-input numbers.**  
-  [SimpleCalculator.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day%2003/Practice_Problems/SimpleCalculator.java)
+* **Question 4: Build a simple calculator that performs basic arithmetic operations (+, -, \*, /, %) on two user-input numbers.**  
+  [SimpleCalculator.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day%2003/Practice_Problems/MonthName.java)
 
 ## 💡 Personal Takeaway
 
