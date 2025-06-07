@@ -24,7 +24,8 @@ This repository documents my progress, code, notes, and dry runs — as I grow a
 | 01  | Input/Output                     | [Notes](Day%2001/notes.md)   | ✅ Done  |
 | 02  | Data Types, Variables, and Operators | [Notes](Day%2002/notes.md) | ✅ Done  |
 | 03  | Conditional Statements (if, else, switch, break) | [Notes](Day%2003/notes.md) | ✅ Done  |
-| 03  | Loops (for , while , do while) | [Notes](Day%2004/notes.md) | ✅ Done  |
+| 04  | Loops (for , while , do while) | [Notes](Day%2004/notes.md) | ✅ Done  |
+| 05  | Pattern Printing Problems Using Loops | [Notes](Day%2005/notes.md) | ✅ Done  |
 | ... | ...                            | ...                        | ...      |
 | 100 | Final Review                   | Notes  | ⏳ Pending |
 
