@@ -173,8 +173,6 @@ for (int i = 1; i <= 5; i++) {
 
 - 🔎 Code: [loop_examples.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/7b5583b41dd8da4b19ab5323b83fd0500c66a856/Day%2004/Practice_Problems/loop_examples.java)
 
-- 🔎 Pattern Problems : [Pattern_Printing_Problems](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/tree/392b99c0617fe1473e8dc7e1ece8f41f59308f6f/Day%2004/Practice_Problems/Pattern_Printing_Problems)
-
 ### 📚 Practice Problems
 
 * **Question 1: Print numbers from 1 to N using all three loops.**  
