@@ -113,21 +113,21 @@ switch (day) {
 
 ## 🔗 Related
 
-- 🔎 Code: [condition_examples.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day%2003/Practice_Problems/condition_examples.java)
+- 🔎 Code: [condition_examples.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_03/Practice_Problems/condition_examples.java)
 
 ### 📚 Practice Problems
 
 * **Question 1: Count how many numbers are zero, positive, or negative until the user exits.**  
-  [count_number_types.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day%2003/Practice_Problems/count_number_types.java)
+  [count_number_types.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_03/Practice_Problems/count_number_types.java)
 
 * **Question 2: Classify marks into performance categories with input validation.**  
-  [grade_classifier.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day%2003/Practice_Problems/grade_classifier.java)
+  [grade_classifier.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_03/Practice_Problems/grade_classifier.java)
 
 * **Question 3: Given a number from 1 to 12, print the corresponding month name.**  
-  [MonthName.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day%2003/Practice_Problems/MonthName.java)
+  [MonthName.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_03/Practice_Problems/MonthName.java)
 
 * **Question 4: Build a simple calculator that performs basic arithmetic operations (+, -, \*, /, %) on two user-input numbers.**  
-  [SimpleCalculator.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day%2003/Practice_Problems/MonthName.java)
+  [SimpleCalculator.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_03/Practice_Problems/MonthName.java)
 
 ## 💡 Personal Takeaway
 

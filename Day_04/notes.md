@@ -171,21 +171,21 @@ for (int i = 1; i <= 5; i++) {
 
 ## 🔗 Related
 
-- 🔎 Code: [loop_examples.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/7b5583b41dd8da4b19ab5323b83fd0500c66a856/Day%2004/Practice_Problems/loop_examples.java)
+- 🔎 Code: [loop_examples.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/7b5583b41dd8da4b19ab5323b83fd0500c66a856/Day_04/Practice_Problems/loop_examples.java)
 
 ### 📚 Practice Problems
 
 * **Question 1: Print numbers from 1 to N using all three loops.**  
-  [PrintNumbers.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/7b5583b41dd8da4b19ab5323b83fd0500c66a856/Day%2004/Practice_Problems/PrintNumbers.java)
+  [PrintNumbers.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/7b5583b41dd8da4b19ab5323b83fd0500c66a856/Day_04/Practice_Problems/PrintNumbers.java)
 
 * **Question 2: Keep taking input until user enters 0 (using while loop).**  
-  [InputUntilZero.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/7b5583b41dd8da4b19ab5323b83fd0500c66a856/Day%2004/Practice_Problems/InputUntilZero.java)
+  [InputUntilZero.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/7b5583b41dd8da4b19ab5323b83fd0500c66a856/Day_04/Practice_Problems/InputUntilZero.java)
 
 * **Question 3: Print the sum of first N natural numbers (using for loop).**  
-  [SumNaturalNumbers.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/7b5583b41dd8da4b19ab5323b83fd0500c66a856/Day%2004/Practice_Problems/SumOfNaturalNumbers.java)
+  [SumNaturalNumbers.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/7b5583b41dd8da4b19ab5323b83fd0500c66a856/Day_04/Practice_Problems/SumOfNaturalNumbers.java)
 
 * **Question 4: Check if a given number entered by the user is a prime number or not. (using for loop).**  
-  [PrimeNumbers.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/7b5583b41dd8da4b19ab5323b83fd0500c66a856/Day%2004/Practice_Problems/PrimeNumbers.java)
+  [PrimeNumbers.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/7b5583b41dd8da4b19ab5323b83fd0500c66a856/Day_04/Practice_Problems/PrimeNumbers.java)
 
 ---
 

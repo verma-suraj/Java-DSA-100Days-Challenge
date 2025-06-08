@@ -1,3 +1,25 @@
+/*
+📌 Problem:
+Print a **Solid Rhombus** pattern where each row contains a fixed number of stars (`n`), 
+but each row is right-aligned by using leading spaces.
+
+Example for n = 5:
+    *****
+   *****
+  *****
+ *****
+*****
+
+🧠 Logic:
+- For each row `i` from 1 to `n`:
+    1. Print `n - i` spaces to push the row right
+    2. Print `n` stars in the row
+
+⚠️ Edge Cases:
+- n = 1 → Only a single star
+- n = 0 → No output (no validation included)
+*/
+
 package Day_06.Pattern_Printing_Problems;        //ignore this if you are copying this code to run locally!!
 
 import java.util.Scanner;

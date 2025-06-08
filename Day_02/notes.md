@@ -206,5 +206,5 @@ Learning operators helped me understand how machines process decisions and data.
 
 ### 📚 Practice Problems
 
-* **Question 1: Declare and print all primitive data types.** [Link](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day%2002/Practice_Problems/declare_primitive_variables.java)  
-* **Question 2: Perform arithmetic and relational operations on 2 inputs.** [Link](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day%2002/Practice_Problems/arithmetic_relational_operations.java)
+* **Question 1: Declare and print all primitive data types.** [Link](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_02/Practice_Problems/declare_primitive_variables.java)  
+* **Question 2: Perform arithmetic and relational operations on 2 inputs.** [Link](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_02/Practice_Problems/arithmetic_relational_operations.java)

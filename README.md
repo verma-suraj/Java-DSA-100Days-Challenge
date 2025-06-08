@@ -21,11 +21,12 @@ This repository documents my progress, code, notes, and dry runs — as I grow a
 
 | Day | Topic                              | Notes                      | Status   |
 |-----|----------------------------------|----------------------------|----------|
-| 01  | Input/Output                     | [Notes](Day%2001/notes.md)   | ✅ Done  |
-| 02  | Data Types, Variables, and Operators | [Notes](Day%2002/notes.md) | ✅ Done  |
-| 03  | Conditional Statements (if, else, switch, break) | [Notes](Day%2003/notes.md) | ✅ Done  |
-| 04  | Loops (for , while , do while) | [Notes](Day%2004/notes.md) | ✅ Done  |
-| 05  | Pattern Printing Problems Using Loops | [Notes](Day%2005/notes.md) | ✅ Done  |
+| 01  | Input/Output                     | [Notes](Day_01/notes.md)   | ✅ Done  |
+| 02  | Data Types, Variables, and Operators | [Notes](Day_02/notes.md) | ✅ Done  |
+| 03  | Conditional Statements (if, else, switch, break) | [Notes](Day_03/notes.md) | ✅ Done  |
+| 04  | Loops (for , while , do while) | [Notes](Day_04/notes.md) | ✅ Done  |
+| 05  | Pattern Printing Problems Using Loops | [Notes](Day_05/notes.md) | ✅ Done  |
+| 06  | Pattern Printing Problems Using Loops Part - 2 | [Notes](Day_06/notes.md) | ✅ Done  |
 | ... | ...                            | ...                        | ...      |
 | 100 | Final Review                   | Notes  | ⏳ Pending |
 
@@ -38,7 +39,7 @@ This repository is organized into 100 folders, one for each day of the challenge
 
 ### Folder Naming
 
-- Folders follow the format: `Day 01`, `Day 02`, ..., `Day 100`
+- Folders follow the format: `Day_01`, `Day_02`, ..., `Day_100`
 - This keeps everything chronological and easy to browse.
 
 ### What's inside each Day folder?
