@@ -3,6 +3,18 @@
 Print a hollow butterfly pattern based on the number of rows input by the user.
 Each half of the butterfly (upper and lower) contains a mirrored hollow triangle, separated by spaces.
 
+Example for n = 5:
+*        *
+**      **
+* *    * *
+*  *  *  *
+*   **   *
+*   **   *
+*  *  *  *
+* *    * *
+**      **
+*        *
+
 🧠 Logic:
 - The butterfly pattern has two parts: upper half and lower half.
 - Each row of the upper and lower half has:

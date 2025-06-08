@@ -17,7 +17,6 @@ Perform arithmetic and relational operations on two user-input integers.
 To understand how to use arithmetic and relational operators in Java with user input.
 */
 
-package Day_02.Practice_Problems;
 import java.util.Scanner;
 
 public class arithmetic_relational_operations {

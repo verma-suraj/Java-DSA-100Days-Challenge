@@ -3,6 +3,13 @@
 Print a hollow rhombus pattern based on the number of rows input by the user.
 Each row has leading spaces and a hollow rectangle of stars aligned to the right.
 
+Example for n = 5:
+    *****
+   *   *
+  *   *
+ *   *
+*****
+
 🧠 Logic:
 - The rhombus is a square of stars, but shifted to the right by printing leading spaces.
 - For each row:

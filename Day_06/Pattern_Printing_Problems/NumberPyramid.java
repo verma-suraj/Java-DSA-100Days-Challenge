@@ -3,6 +3,13 @@
 Print a number pyramid pattern based on the number of rows entered by the user.
 Each row prints the row number multiple times, aligned in a pyramid shape.
 
+Example for n = 5:
+    1 
+   2 2 
+  3 3 3 
+ 4 4 4 4 
+5 5 5 5 5 
+
 🧠 Logic:
 - For each row `i` from 1 to `n`:
     1. Print `n - i` spaces to align the numbers centrally.

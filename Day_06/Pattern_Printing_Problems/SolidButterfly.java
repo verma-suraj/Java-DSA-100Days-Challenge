@@ -3,6 +3,17 @@
 Print a **Solid Butterfly** pattern for a given number of rows. 
 It has two symmetrical triangular wings (left and right) separated by spaces.
 
+Example for n = 5:
+*        *
+**      **
+***    ***
+****  ****
+**********
+**********
+****  ****
+***    ***
+**      **
+*        *
 🧠 Logic:
 - The butterfly has two halves:
   1. **Upper Half**: Increasing number of stars on both wings

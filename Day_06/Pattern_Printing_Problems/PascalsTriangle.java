@@ -3,6 +3,12 @@
 Print Pascal's Triangle for a given number of rows. Each number is a binomial coefficient C(i, j), 
 where `i` is the row number and `j` is the column index in that row.
 
+Example for n = 5:
+     1 
+    1 1 
+   1 2 1 
+  1 3 3 1 
+ 1 4 6 4 1 
 🧠 Logic:
 - For each row `i` (starting from 0):
     1. Print `n - i` spaces to center-align the triangle.

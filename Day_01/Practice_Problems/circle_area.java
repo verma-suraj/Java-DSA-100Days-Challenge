@@ -13,7 +13,6 @@ Calculate the area of a circle given its radius.
 - Variable names could be more descriptive for clarity.
 - Using `double` primitive type instead of `Double` wrapper is more common here.
 */
-package Practice_Problems;
 import java.util.*;
 
 public class circle_area{
