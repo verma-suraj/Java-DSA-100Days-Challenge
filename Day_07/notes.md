@@ -68,21 +68,21 @@ public static boolean isPrime(int n) {
 
 ## 🔗 Related
 
-- 🔎 Code: [FunctionsExamples.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_07/Functions_Problems/FunctionsExamples.java)
+- 🔎 Code: [FunctionsExamples.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/67566de42212acb16ca882be6bcc5d1f7b65d0e1/Day_07/Practice_Problems/FunctionsExamples.java)
 
 ### 📚 Practice Problems
 
 * **Question 1: Find the average of 3 numbers using a function.**  
-  [FindAverage.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_07/Functions_Problems/FindAverage.java)
+  [FindAverage.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/67566de42212acb16ca882be6bcc5d1f7b65d0e1/Day_07/Practice_Problems/FindAverage.java)
 
 * **Question 2: Print the sum of odd numbers from 1 to N.**  
-  [sumOfOddNumbers.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_07/Functions_Problems/sumOfOddNumbers.java)
+  [sumOfOddNumbers.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/67566de42212acb16ca882be6bcc5d1f7b65d0e1/Day_07/Practice_Problems/sumOfOddNumbers.java)
 
 * **Question 3: Find GCD (Greatest Common Divisor) of two numbers.**  
-  [GCD.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_07/Functions_Problems/GCD.java)
+  [GCD.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/67566de42212acb16ca882be6bcc5d1f7b65d0e1/Day_07/Practice_Problems/GCD.java)
 
 * **Question 4: Find the greater of two numbers using a function.**  
-  [findGreaterNumber.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_07/Functions_Problems/findGreaterNumber.java)
+  [findGreaterNumber.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/67566de42212acb16ca882be6bcc5d1f7b65d0e1/Day_07/Practice_Problems/findGreaterNumber.java)
 
 ---
 
