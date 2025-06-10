@@ -28,6 +28,7 @@ This repository documents my progress, code, notes, and dry runs — as I grow a
 | 05  | Pattern Printing Problems Using Loops | [Notes](Day_05/notes.md) | ✅ Done  |
 | 06  | Pattern Printing Problems Using Loops Part - 2 | [Notes](Day_06/notes.md) | ✅ Done  |
 | 07  |Functions in JAVA| [Notes](Day_07/notes.md) | ✅ Done  |
+| 08  |Basics of Space and Time Complexity| [Notes](Day_08/notes.md) | ✅ Done  |
 | ... | ...                            | ...                        | ...      |
 | ... | ...                            | ...                        | ...      |
 | 100 | Final Review                   | Notes  | ⏳ Pending |
