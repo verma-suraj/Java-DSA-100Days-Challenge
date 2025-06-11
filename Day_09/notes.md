@@ -150,30 +150,30 @@ matrix[1][3] = 50; // Change value at row 1, column 3 in 2D array
 
 ## 🔗 Related
 
-- 🔎 Code: [arrays.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_09/arrays.java)
+- 🔎 Code: [arrays.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/a1a9de943820efb8c9b61ba1c6b5545df0ecff1d/Day_09/Practice_Problems/arrays.java)
 
 ### 📚 Practice Problems
 
 * **Question 1: Check if the input array is sorted in ascending order.**  
-  [ArrayAscending.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_09/ArrayAscending.java)
+  [ArrayAscending.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/a1a9de943820efb8c9b61ba1c6b5545df0ecff1d/Day_09/Practice_Problems/ArrayAscending.java)
 
 * **Question 2: Find the maximum and minimum values from an integer array input by the user.**  
-  [ArrayMaxMin.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_09/ArrayMaxMin.java)
+  [ArrayMaxMin.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/a1a9de943820efb8c9b61ba1c6b5545df0ecff1d/Day_09/Practice_Problems/ArrayMaxMin.java)
 
 * **Question 3: Take an array input from the user, then search for a given number `x` and print the index where it is found.**  
-  [ArrayQue.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_09/ArrayQue.java)
+  [ArrayQue.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/a1a9de943820efb8c9b61ba1c6b5545df0ecff1d/Day_09/Practice_Problems/ArrayQue.java)
 
 * **Question 4: Take the size of an array from the user and input that many names. Then, print greetings for each name in the format: "Hello `<name>`!"**  
-  [ArrayQueNames.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_09/ArrayQueNames.java)
+  [ArrayQueNames.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/a1a9de943820efb8c9b61ba1c6b5545df0ecff1d/Day_09/Practice_Problems/ArrayQueNames.java)
 
 * **Question 5: Search for a number in a 2D array and print its position (row, column) if found.**  
-  [PrintArrayIndex.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_09/PrintArrayIndex.java)
+  [PrintArrayIndex.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/a1a9de943820efb8c9b61ba1c6b5545df0ecff1d/Day_09/Practice_Problems/PrintArrayIndex.java)
 
 * **Question 6: Find the transpose of a given matrix. (Transpose is obtained by swapping rows and columns)**  
-  [TransposeOfMatrix.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_09/TransposeOfMatrix.java)
+  [TransposeOfMatrix.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/a1a9de943820efb8c9b61ba1c6b5545df0ecff1d/Day_09/Practice_Problems/TransposeOfMatrix.java)
 
 * **Question 7: Take input for a 2D array (matrix) of given dimensions and print the matrix in row-wise format.**  
-  [TwoDArrays.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_09/TwoDArrays.java)
+  [TwoDArrays.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/a1a9de943820efb8c9b61ba1c6b5545df0ecff1d/Day_09/Practice_Problems/TwoDArrays.java)
 
 
 
