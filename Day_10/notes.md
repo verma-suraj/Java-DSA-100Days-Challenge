@@ -148,23 +148,23 @@ String str = Integer.toString(num);
 ---
 ## 🔗 Related
 
-- 🔎 Code: [Strings_demo.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_10/Strings_demo.java)
+- 🔎 Code: [Strings_demo.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/b20b54a2179bd7b14c58174b823329f7ab5eecc8/Day_10/Practice_Problems/Strings_demo.java)
 
 ---
 
 ### 📚 Practice Problems
 
 * **Question 1: Extract the username from an email ID.**  
-  [CreateUsername.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_10/Practice_Problems/CreateUsername.java)
+  [CreateUsername.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/b20b54a2179bd7b14c58174b823329f7ab5eecc8/Day_10/Practice_Problems/CreateUsername.java)
 
 * **Question 2: Replace every occurrence of the character 'e' with 'i'.**  
-  [replacingCharacter.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_10/Practice_Problems/replacingCharacter.java)
+  [replacingCharacter.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/b20b54a2179bd7b14c58174b823329f7ab5eecc8/Day_10/Practice_Problems/replacingCharacter.java)
 
 * **Question 3: Reverse a string using `StringBuilder` without using built-in `reverse()`.**  
-  [reverseString.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_10/Practice_Problems/reverseString.java)
+  [reverseString.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/b20b54a2179bd7b14c58174b823329f7ab5eecc8/Day_10/Practice_Problems/reverseString.java)
 
 * **Question 4: Count total characters (excluding spaces) from a string array input.**  
-  [Strings.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_10/Practice_Problems/Strings.java)
+  [Strings.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/b20b54a2179bd7b14c58174b823329f7ab5eecc8/Day_10/Practice_Problems/Strings.java)
 
 ---
 
