@@ -120,7 +120,7 @@ StringBuilder is a powerful class for manipulating strings. Key functions includ
 
 ## 🔗 Related
 
-- 🔎 Code: [StringBuilderExamples.java]()
+- 🔎 Code: [StringBuilderExamples.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/94d35775f7ecf9157c87f628fc9ef655ad310dac/Day_11/Practice_Problems/StringBuilderExamples.java)
 
 ---
 
@@ -129,16 +129,16 @@ StringBuilder is a powerful class for manipulating strings. Key functions includ
 Solved all Day 10 String problems again using `StringBuilder` to make string manipulation more efficient. This included:
 
 * **Question 1: Extract the username from an email ID.**  
-  [CreateUsername.java]()
+  [CreateUsername.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/94d35775f7ecf9157c87f628fc9ef655ad310dac/Day_11/Practice_Problems/CreateUsername.java)
 
 * **Question 2: Replace every occurrence of the character 'e' with 'i'.**  
-  [replacingCharacter.java]()
+  [replacingCharacter.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/94d35775f7ecf9157c87f628fc9ef655ad310dac/Day_11/Practice_Problems/replacingCharacter.java)
 
 * **Question 3: Reverse a string using `StringBuilder` without using built-in `reverse()`.**  
-  [reverseString.java]()
+  [reverseString.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/94d35775f7ecf9157c87f628fc9ef655ad310dac/Day_11/Practice_Problems/reverseString.java)
 
 * **Question 4: Count total characters (excluding spaces) from a string array input.**  
-  [Strings.java]()
+  [Strings.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/94d35775f7ecf9157c87f628fc9ef655ad310dac/Day_11/Practice_Problems/Strings.java)
 
 ---
 ## 📝 Summary
