@@ -31,6 +31,7 @@ This repository documents my progress, code, notes, and dry runs — as I grow a
 | 08  |Basics of Space and Time Complexity| [Notes](Day_08/notes.md) | ✅ Done  |
 | 09  |Arrays in JAVA| [Notes](Day_09/notes.md) | ✅ Done  |
 | 10  |Strings in JAVA| [Notes](Day_10/notes.md) | ✅ Done  |
+| 11  |String builders in JAVA| [Notes](Day_11/notes.md) | ✅ Done  |
 | ... | ...                            | ...                        | ...      |
 | 100 | Final Review                   | Notes  | ⏳ Pending |
 
