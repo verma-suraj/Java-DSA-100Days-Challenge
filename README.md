@@ -32,6 +32,7 @@ This repository documents my progress, code, notes, and dry runs — as I grow a
 | 09  |Arrays in JAVA| [Notes](Day_09/notes.md) | ✅ Done  |
 | 10  |Strings in JAVA| [Notes](Day_10/notes.md) | ✅ Done  |
 | 11  |Stringbuilder in JAVA| [Notes](Day_11/notes.md) | ✅ Done  |
+| 12  |BitManipulation in JAVA| [Notes](Day_12/notes.md) | ✅ Done  |
 | ... | ...                            | ...                        | ...      |
 | 100 | Final Review                   | Notes  | ⏳ Pending |
 
