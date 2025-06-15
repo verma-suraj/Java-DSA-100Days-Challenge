@@ -99,5 +99,5 @@ if (operator == 0) {
 
 ## 🔗 Related
 
-- 🔎 Code: [BitManipulationExamples.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_12/BitManipulationExamples.java)
+- 🔎 Code: [BitManipulationExamples.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/a3c0714634a8beb388e9766b79bc7301188831b6/Day_12/Practice_Problems/BitManipulationExamples.java)
 
