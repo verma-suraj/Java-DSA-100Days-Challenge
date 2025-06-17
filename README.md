@@ -34,6 +34,7 @@ This repository documents my progress, code, notes, and dry runs — as I grow a
 | 11  |Stringbuilder in JAVA| [Notes](Day_11/notes.md) | ✅ Done  |
 | 12  |BitManipulation in JAVA| [Notes](Day_12/notes.md) | ✅ Done  |
 | 13  |Sorting in JAVA (Bubble sort , Selection sort , Insertion sort )| [Notes](Day_13/notes.md) | ✅ Done  |
+| 14  |Recursion in JAVA | [Notes](Day_14/notes.md) | ✅ Done  |
 | ... | ...                            | ...                        | ...      |
 | 100 | Final Review                   | Notes  | ⏳ Pending |
 
@@ -57,5 +58,6 @@ This repository is organized into 100 folders, one for each day of the challenge
 | `notes.md`              | Short summary of key takeaways and learnings          |
 | `dryrun.png`            | Visual explanation (hand-drawn or tool-made image)    |
 | `Practice_Problems/`    | Folder containing practice problem Java files         |
+| `Modified_Code/`        | Visualizer-friendly versions of compex logic problems for tools like PythonTutor |
 
 > This structure helps me stay consistent, and makes it easy for others to learn from or review my work.
