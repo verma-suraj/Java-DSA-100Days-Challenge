@@ -218,24 +218,24 @@ For this reason, **a modified version of each Java file** (compatible with Pytho
 ### 📚 Practice Problems
 
 * **Question 1: Find the factorial of a number using recursion.**  
-  [Factorial.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_14/Practice_Problems/Factorial.java)  
-  🔁 [Modified Version (for PythonTutor)](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_14/Modified_Code/Factorial.java)
+  [Factorial.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/53c63d3013881cba4239e5c85478420c47a15461/Day_14/Practice_Problems/Factorial.java)  
+  🔁 [Modified Version (for PythonTutor)](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/53c63d3013881cba4239e5c85478420c47a15461/Day_14/Modified_Code/Factorial.java)
 
 * **Question 2: Print the first `n` terms of the Fibonacci Series using recursion.**  
-  [FibonacciSeries.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_14/Practice_Problems/FibonacciSeries.java)  
-  🔁 [Modified Version](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_14/Modified_Code/FibonacciSeries.java)
+  [FibonacciSeries.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/53c63d3013881cba4239e5c85478420c47a15461/Day_14/Practice_Problems/FibonacciSeries.java)  
+  🔁 [Modified Version](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/53c63d3013881cba4239e5c85478420c47a15461/Day_14/Modified_Code/FibonacciSeries.java)
 
 * **Question 3: Print numbers from 1 to a given number `x` using recursion.**  
-  [RecursionPrintNumb.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_14/Practice_Problems/RecursionPrintNumb.java)  
-  🔁 [Modified Version](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_14/Modified_Code/RecursionPrintNumb.java)
+  [RecursionPrintNumb.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/53c63d3013881cba4239e5c85478420c47a15461/Day_14/Practice_Problems/RecursionPrintNumb.java)  
+  🔁 [Modified Version](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/53c63d3013881cba4239e5c85478420c47a15461/Day_14/Modified_Code/RecursionPrintNumb.java)
 
 * **Question 4: Calculate the sum of first `x` natural numbers using standard recursion.**  
-  [sumOfNaturalNumbers.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_14/Practice_Problems/sumOfNaturalNumbers.java)  
-  🔁 [Modified Version](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_14/Modified_Code/sumOfNaturalNumbers.java)
+  [sumOfNaturalNumbers.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/53c63d3013881cba4239e5c85478420c47a15461/Day_14/Practice_Problems/sumOfNaturalNumbers.java)  
+  🔁 [Modified Version](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/53c63d3013881cba4239e5c85478420c47a15461/Day_14/Modified_Code/sumOfNaturalNumbers.java)
 
 * **Question 5: Calculate the sum of first `n` natural numbers using tail recursion.**  
-  [sumOfnNumbers.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_14/Practice_Problems/sumOfnNumbers.java)  
-  🔁 [Modified Version](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_14/Modified_Code/sumOfnNumbers.java)
+  [sumOfnNumbers.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/53c63d3013881cba4239e5c85478420c47a15461/Day_14/Practice_Problems/sumOfnNumbers.java)  
+  🔁 [Modified Version](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/53c63d3013881cba4239e5c85478420c47a15461/Day_14/Modified_Code/sumOfnNumbers.java)
 
 ---
 
