@@ -72,15 +72,15 @@ Navigate through my **#100DaysOfCode** journey. Each link leads to detailed note
 | Day 02  | **Java Basics:** Data Types, Variables, and Operators  | [Notes](Day_02/notes.md)               | [Practice Problems](Day_02/Practice_Problems)                 | ✅ Done   |
 | Day 03  | **Java Basics:** Conditional Statements (if, else, switch, break) | [Notes](Day_03/notes.md)               | [Practice Problems](Day_03/Practice_Problems)                 | ✅ Done   |
 | Day 04  | **Java Basics:** Loops (for, while, do while)          | [Notes](Day_04/notes.md)               | [Practice Problems](Day_04/Practice_Problems)                 | ✅ Done   |
-| Day 05  | **Java Basics:** Pattern Printing Problems Using Loops | [Notes](Day_05/notes.md)               | [Practice Problems](Day_05/Practice_Problems)                 | ✅ Done   |
-| Day 06  | **Java Basics:** Pattern Printing Problems Using Loops Part - 2 | [Notes](Day_06/notes.md)               | [Practice Problems](Day_06/Practice_Problems)                 | ✅ Done   |
+| Day 05  | **Java Basics:** Pattern Printing Problems Using Loops | [Notes](Day_05/notes.md)               | [Practice Problems](Day_05/Pattern_Printing_Problems)                 | ✅ Done   |
+| Day 06  | **Java Basics:** Pattern Printing Problems Using Loops Part - 2 | [Notes](Day_06/notes.md)               | [Practice Problems](Day_06/Pattern_Printing_Problems)                 | ✅ Done   |
 | Day 07  | **Java Basics:** Functions in JAVA                     | [Notes](Day_07/notes.md)               | [Practice Problems](Day_07/Practice_Problems)                 | ✅ Done   |
-| Day 08  | **Basics of Space and Time Complexity** | [Notes](Day_08/notes.md)               | [Practice Problems](Day_08/Practice_Problems)                 | ✅ Done   |
+| Day 08  | **Basics of Space and Time Complexity** | [Notes](Day_08/notes.md)               | No practice problems, only theory for this                 | ✅ Done   |
 | Day 09  | **Arrays in JAVA** | [Notes](Day_09/notes.md)               | [Practice Problems](Day_09/Practice_Problems)                 | ✅ Done   |
 | Day 10  | **Strings in JAVA** | [Notes](Day_10/notes.md)               | [Practice Problems](Day_10/Practice_Problems)                 | ✅ Done   |
 | Day 11  | **StringBuilder in JAVA** | [Notes](Day_11/notes.md)               | [Practice Problems](Day_11/Practice_Problems)                 | ✅ Done   |
 | Day 12  | **Bit Manipulation in JAVA** | [Notes](Day_12/notes.md)               | [Practice Problems](Day_12/Practice_Problems)                 | ✅ Done   |
-| Day 13  | **Sorting in JAVA** (Bubble, Selection, Insertion)     | [Notes](Day_13/notes.md)               | [Practice Problems](Day_13/Practice_Problems)                 | ✅ Done   |
+| Day 13  | **Sorting in JAVA** (Bubble, Selection, Insertion)     | [Notes](Day_13/notes.md)               | No practice problems, only theory for this                 | ✅ Done   |
 | Day 14  | **Recursion in JAVA** | [Notes](Day_14/notes.md)               | [Practice Problems](Day_14/Practice_Problems)                 | ✅ Done   |
 | ...     | *(More days coming soon!)* | [Link to Day_XX/notes.md](Day_XX/notes.md) | [Link to Day_XX/Practice_Problems](Day_XX/Practice_Problems) | In Progress |
 
@@ -91,8 +91,7 @@ Navigate through my **#100DaysOfCode** journey. Each link leads to detailed note
 * **Language:** Java
 * **Version Control:** Git & GitHub
 * **IDE:** IntelliJ IDEA / VS Code (or your preferred Java IDE)
-* **Primary Learning Resource:** [Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet/)
-* **Visualization Tools:** [PythonTutor.com](https://pythontutor.com/), [Visualgo.net](https://visualgo.net/)
+* **Visualization Tools:** [PythonTutor.com](https://pythontutor.com/java.html#mode=edit), [Visualgo.net](https://visualgo.net/)
 
 ---
 
