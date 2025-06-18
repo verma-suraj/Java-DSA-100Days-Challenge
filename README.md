@@ -66,23 +66,23 @@ This repository is organized to guide you through a structured learning journey.
 
 Navigate through my **#100DaysOfCode** journey. Each link leads to detailed notes and practice problems for that day.
 
-| Day     | Topic                                     | Notes Link                                                    | Practice Problems & Demos                                                     |
-| :------ | :---------------------------------------- | :------------------------------------------------------------ | :---------------------------------------------------------------------------- |
-| Day 01  | **Java Basics:** Introduction             | [Notes](Day_01/Introduction.md)                               | [Hello World](Day_01/HelloWorld.java)                                         |
-| Day 02  | **Java Basics:** Variables, Data Types & Operators | [Notes](Day_02/notes.md)                                 | [Examples](Day_02/Practice_Problems)                                          |
-| Day 03  | **Java Basics:** Conditional Statements   | [Notes](Day_03/notes.md)                                     | [Examples](Day_03/Practice_Problems)                                          |
-| Day 04  | **Java Basics:** Loops                    | [Notes](Day_04/notes.md)                                     | [Examples](Day_04/Practice_Problems)                                          |
-| Day 05  | **Java Basics:** Arrays                   | [Notes](Day_05/notes.md)                                     | [Examples](Day_05/Practice_Problems)                                          |
-| Day 06  | **Java Basics:** Methods                  | [Notes](Day_06/notes.md)                                     | [Examples](Day_06/Methods.java)                                               |
-| Day 07  | **Java Basics:** Strings                  | [Notes](Day_07/notes.md)                                     | [Examples](Day_07/StringMethods.java)                                         |
-| Day 08  | **Java OOPs:** Introduction to OOP, Classes & Objects | [Notes](Day_08/notes.md)                       | [Examples](Day_08)                                                            |
-| Day 09  | **Java OOPs:** Constructors & `this` Keyword | [Notes](Day_09/notes.md)                       | [Examples](Day_09)                                                            |
-| Day 10  | **Java OOPs:** Inheritance                | [Notes](Day_10/notes.md)                                     | [Examples](Day_10)                                                            |
-| Day 11  | **Java OOPs:** Polymorphism               | [Notes](Day_11/notes.md)                                     | [Examples](Day_11)                                                            |
-| Day 12  | **Java OOPs:** Abstraction & Encapsulation | [Notes](Day_12/notes.md)                      | [Examples](Day_12)                                                            |
-| Day 13  | **Java OOPs:** Packages & Access Modifiers | [Notes](Day_13/notes.md)                      | [Examples](Day_13)                                                            |
-| Day 14  | **Recursion** | [Notes](Day_14/notes.md)                                     | [Examples](Day_14/Practice_Problems)                                          |
-| ...     | *(More days coming soon!)* | [Link to Day_XX/notes.md](Day_XX/notes.md)                   | [Link to Day_XX/Practice_Problems](Day_XX/Practice_Problems)                  |
+| Day     | Topic                                                  | Notes Link                             | Practice Problems & Demos                                     | Status    |
+| :------ | :----------------------------------------------------- | :------------------------------------- | :------------------------------------------------------------ | :-------- |
+| Day 01  | **Java Basics:** Input/Output                          | [Notes](Day_01/notes.md)               | [Practice Problems](Day_01/Practice_Problems)                 | ✅ Done   |
+| Day 02  | **Java Basics:** Data Types, Variables, and Operators  | [Notes](Day_02/notes.md)               | [Practice Problems](Day_02/Practice_Problems)                 | ✅ Done   |
+| Day 03  | **Java Basics:** Conditional Statements (if, else, switch, break) | [Notes](Day_03/notes.md)               | [Practice Problems](Day_03/Practice_Problems)                 | ✅ Done   |
+| Day 04  | **Java Basics:** Loops (for, while, do while)          | [Notes](Day_04/notes.md)               | [Practice Problems](Day_04/Practice_Problems)                 | ✅ Done   |
+| Day 05  | **Java Basics:** Pattern Printing Problems Using Loops | [Notes](Day_05/notes.md)               | [Practice Problems](Day_05/Practice_Problems)                 | ✅ Done   |
+| Day 06  | **Java Basics:** Pattern Printing Problems Using Loops Part - 2 | [Notes](Day_06/notes.md)               | [Practice Problems](Day_06/Practice_Problems)                 | ✅ Done   |
+| Day 07  | **Java Basics:** Functions in JAVA                     | [Notes](Day_07/notes.md)               | [Practice Problems](Day_07/Practice_Problems)                 | ✅ Done   |
+| Day 08  | **Basics of Space and Time Complexity** | [Notes](Day_08/notes.md)               | [Practice Problems](Day_08/Practice_Problems)                 | ✅ Done   |
+| Day 09  | **Arrays in JAVA** | [Notes](Day_09/notes.md)               | [Practice Problems](Day_09/Practice_Problems)                 | ✅ Done   |
+| Day 10  | **Strings in JAVA** | [Notes](Day_10/notes.md)               | [Practice Problems](Day_10/Practice_Problems)                 | ✅ Done   |
+| Day 11  | **StringBuilder in JAVA** | [Notes](Day_11/notes.md)               | [Practice Problems](Day_11/Practice_Problems)                 | ✅ Done   |
+| Day 12  | **Bit Manipulation in JAVA** | [Notes](Day_12/notes.md)               | [Practice Problems](Day_12/Practice_Problems)                 | ✅ Done   |
+| Day 13  | **Sorting in JAVA** (Bubble, Selection, Insertion)     | [Notes](Day_13/notes.md)               | [Practice Problems](Day_13/Practice_Problems)                 | ✅ Done   |
+| Day 14  | **Recursion in JAVA** | [Notes](Day_14/notes.md)               | [Practice Problems](Day_14/Practice_Problems)                 | ✅ Done   |
+| ...     | *(More days coming soon!)* | [Link to Day_XX/notes.md](Day_XX/notes.md) | [Link to Day_XX/Practice_Problems](Day_XX/Practice_Problems) | In Progress |
 
 ---
 
