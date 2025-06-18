@@ -13,7 +13,7 @@ Example: `"abc"` → `["", "a", "b", "ab", "c", "ac", "bc", "abc"]`
 - Include the character
 - Exclude the character
 
-🔗 [View Solution → impSubsequence.java](./impSubsequence.java)
+🔗 [View Solution → impSubsequence.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/6c93017ba64d3d5dec7fcd110bb9df0f7f1352d2/Day_15/Practice_Problems/impSubsequence.java)
 
 ---
 
@@ -24,7 +24,7 @@ Example: For input `"aaa"` → valid output is `["", "a", "aa", "aaa"]` (no repe
 
 📌 We use a `HashSet` to keep track of already printed subsequences.
 
-🔗 [View Solution → impUniqueSubsequence.java](./impUniqueSubsequence.java)
+🔗 [View Solution → impUniqueSubsequence.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/6c93017ba64d3d5dec7fcd110bb9df0f7f1352d2/Day_15/Practice_Problems/impUniqueSubsequence.java)
 
 ---
 
@@ -35,7 +35,7 @@ Example: Input `"23"` → Output: `["ad", "ae", "af", "bd", "be", "bf", "cd", "c
 
 📌 Use a mapping of digits to characters and explore all combinations recursively.
 
-🔗 [View Solution → KeypadCombination.java](./KeypadCombination.java)
+🔗 [View Solution → KeypadCombination.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/6c93017ba64d3d5dec7fcd110bb9df0f7f1352d2/Day_15/Practice_Problems/KeypadCombination.java)
 
 ---
 
@@ -46,7 +46,7 @@ Example: Input `"hello"` → Output: `"olleh"`
 
 📌 Recurse till the end of the string and print characters while returning back through the call stack.
 
-🔗 [View Solution → PrintRevString.java](./PrintRevString.java)
+🔗 [View Solution → PrintRevString.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/6c93017ba64d3d5dec7fcd110bb9df0f7f1352d2/Day_15/Practice_Problems/PrintRevString.java)
 
 ---
 
@@ -57,7 +57,7 @@ Example: `"abcaad"`, target `'a'` → First: 0, Last: 4
 
 📌 Use recursion to traverse the string and update first/last indices when matches are found.
 
-🔗 [View Solution → OccurenceIndex.java](./OccurenceIndex.java)
+🔗 [View Solution → OccurenceIndex.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/6c93017ba64d3d5dec7fcd110bb9df0f7f1352d2/Day_15/Practice_Problems/OccurenceIndex.java)
 
 ---
 
