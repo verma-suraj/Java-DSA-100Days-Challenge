@@ -22,7 +22,6 @@ Example: `"abc"` → `["", "a", "b", "ab", "c", "ac", "bc", "abc"]`
 Similar to the previous problem, but avoids printing duplicate subsequences.  
 Example: For input `"aaa"` → valid output is `["", "a", "aa", "aaa"]` (no repetitions)
 
-📌 We use a `HashSet` to keep track of already printed subsequences.
 
 🔗 [View Solution → impUniqueSubsequence.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/6c93017ba64d3d5dec7fcd110bb9df0f7f1352d2/Day_15/Practice_Problems/impUniqueSubsequence.java)
 
