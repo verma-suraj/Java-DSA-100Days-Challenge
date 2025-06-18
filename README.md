@@ -82,6 +82,7 @@ Navigate through my **#100DaysOfCode** journey. Each link leads to detailed note
 | Day 12  | **Bit Manipulation in JAVA** | [Notes](Day_12/notes.md)               | [Practice Problems](Day_12/Practice_Problems)                 | ✅ Done   |
 | Day 13  | **Sorting in JAVA** (Bubble, Selection, Insertion)     | [Notes](Day_13/notes.md)               | No practice problems, only theory for this                 | ✅ Done   |
 | Day 14  | **Recursion in JAVA** | [Notes](Day_14/notes.md)               | [Practice Problems](Day_14/Practice_Problems)                 | ✅ Done   |
+| Day 15  | **Recursion – Classical Problems (Part 1)** | [Notes](Day_15/notes.md)               | [Practice Problems](Day_15/Practice_Problems)         | ✅ Done |
 | ...     | *(More days coming soon!)* | [Link to Day_XX/notes.md](Day_XX/notes.md) | [Link to Day_XX/Practice_Problems](Day_XX/Practice_Problems) | In Progress |
 
 ---
