@@ -64,9 +64,9 @@ Example: `"abcaad"`, target `'a'` → First: 0, Last: 4
 
 | Problem                             | Time Complexity | Space Complexity   |
 | :---------------------------------- | :-------------- | :----------------- |
-| Print all subsequences              | O(2^n)          | O(n)               |
-| Unique subsequences                 | O(2^n * n)      | O(2^n * n)         |
-| Keypad combinations                 | O(4^n)          | O(n)               |
+| Print all subsequences              | O(2ⁿ)           | O(n)               |
+| Unique subsequences                 | O(2ⁿ × n)       | O(2ⁿ × n)          |
+| Keypad combinations                 | O(4ⁿ)           | O(n)               |
 | Reverse string                      | O(n)            | O(n)               |
 | First & last index of character     | O(n)            | O(n)               |
 
