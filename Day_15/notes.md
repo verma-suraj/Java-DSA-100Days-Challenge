@@ -62,13 +62,13 @@ Example: `"abcaad"`, target `'a'` → First: 0, Last: 4
 
 ### ✅ Summary of Classical Recursion Problems (Part 1)
 
-| Problem                             | Time Complexity | Space Complexity |
-| :---------------------------------- |:-------------- | :--------------- |
-| Print all subsequences              | $O(2^n)$        | $O(n)$           |
-| Unique subsequences                 | $O(2^n * n)$    | $O(2^n * n)$     |
-| Keypad combinations                 | $O(4^n)$        | $O(n)$           |
-| Reverse string                      | $O(n)$          | $O(n)$           |
-| First & last index of character     | $O(n)$          | $O(n)$           |
+| Problem                             | Time Complexity | Space Complexity   |
+| :---------------------------------- | :-------------- | :----------------- |
+| Print all subsequences              | O(2^n)          | O(n)               |
+| Unique subsequences                 | O(2^n * n)      | O(2^n * n)         |
+| Keypad combinations                 | O(4^n)          | O(n)               |
+| Reverse string                      | O(n)            | O(n)               |
+| First & last index of character     | O(n)            | O(n)               |
 
 ---
 
