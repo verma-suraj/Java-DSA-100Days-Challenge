@@ -13,7 +13,7 @@ Example: `"abxcxd"` → `"abcdxx"`
 - If current char is `'x'`, add it **after** recursive calls  
 - Else, add it **before**
 
-🔗 [View Solution → rearrangingX.java](./rearrangingX.java)
+🔗 [View Solution → rearrangingX.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/10d0f3efcd38530da865b80a33d89709a3ab47dd/Day_16/Practice_Problems/rearrangingX.java)
 
 ---
 
@@ -24,7 +24,7 @@ Example: `"aabbcc"` → `"abc"`
 
 📌 Use a boolean array (or Set) to track visited characters.
 
-🔗 [View Solution → removeDuplicateString.java](./removeDuplicateString.java)
+🔗 [View Solution → removeDuplicateString.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/10d0f3efcd38530da865b80a33d89709a3ab47dd/Day_16/Practice_Problems/removeDuplicateString.java)
 
 ---
 
@@ -36,7 +36,7 @@ Example: `[1, 3, 5, 7]` → `true`
 
 📌 At each step, check if `arr[i] < arr[i+1]` and continue recursively.
 
-🔗 [View Solution → SortedArray.java](./SortedArray.java)
+🔗 [View Solution → SortedArray.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/10d0f3efcd38530da865b80a33d89709a3ab47dd/Day_16/Practice_Problems/SortedArray.java)
 
 ---
 
@@ -52,7 +52,7 @@ Rules:
 2. Move `1` disk from source → destination  
 3. Move `n-1` disks from helper → destination
 
-🔗 [View Solution → TowerOfHanoi.java](./TowerOfHanoi.java)
+🔗 [View Solution → TowerOfHanoi.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/10d0f3efcd38530da865b80a33d89709a3ab47dd/Day_16/Practice_Problems/TowerOfHanoi.java)
 
 ---
 
