@@ -49,10 +49,10 @@ Try it by yourself on LeetCode — the exact question might vary, but the **core
 ### 🔗 LeetCode Reference  
 [View on LeetCode](https://leetcode.com/problems/permutations/)
 
-### 📂 Resources
-- 🔗 [Solution Code (Java)](../permutation/permutation.java)
-- 🔗 [Dry Run](../permutation/dryrun.md)
-- 🔗 [Detailed Explanation](../permutation/notes.md)
+### 📂 Resources  
+- 🔗 [Solution Code (Java)](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/f2fffd0d0324e44860f54fa4fb6df13c214c738b/Day_17/Permutation/permutation.java)  
+- 🔗 [Dry Run](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/3fc7d4bb8c07d7942c065e81338b38334867cc8f/Day_17/Permutation/Dry_Run.md)  
+- 🔗 [Detailed Explanation](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/f2fffd0d0324e44860f54fa4fb6df13c214c738b/Day_17/Permutation/explanation.md)  
 
 ---
 
@@ -99,10 +99,10 @@ Try it by yourself on LeetCode — the exact question might vary, but the **core
 ### 🔗 LeetCode Reference  
 [View on LeetCode](https://leetcode.com/problems/unique-paths/)
 
-### 📂 Resources
-- 🔗 [Solution Code (Java)](../maze/maze.java)
-- 🔗 [Dry Run](../maze/dryrun.md)
-- 🔗 [Detailed Explanation](../maze/notes.md)
+### 📂 Resources  
+- 🔗 [Solution Code (Java)](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/f2fffd0d0324e44860f54fa4fb6df13c214c738b/Day_17/Maze/maze.java)  
+- 🔗 [Dry Run](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/3fc7d4bb8c07d7942c065e81338b38334867cc8f/Day_17/Maze/Dry_Run.md)  
+- 🔗 [Detailed Explanation](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/f2fffd0d0324e44860f54fa4fb6df13c214c738b/Day_17/Maze/explanation.md)  
 
 ---
 
