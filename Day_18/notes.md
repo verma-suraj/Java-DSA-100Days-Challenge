@@ -53,7 +53,7 @@ Try solving before checking the code — the logic remains the same across most 
 ### 📂 Resources  
 - 🔗 [Solution Code](Day_18/Tiling/tileProblem.java)  
 - 🔗 [Dry Run](Day_18/Tiling/Dry_Run.md)  
-- 🔗 [Detailed Explanation](Day_18/Tiling/explanation.md)  
+- 🔗 [Detailed Explanation](Day_18/Tiling/tileProblem.java)  
 
 ---
 
