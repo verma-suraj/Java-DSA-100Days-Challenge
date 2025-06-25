@@ -45,15 +45,15 @@ int placeTile(int n, int m)
 ### 🧪 Try It Yourself  
 Try solving before checking the code — the logic remains the same across most variations.
 
-**Practice Link**  
+**Practice Link**
 🔗 [GFG – Tiling Problem](https://www.geeksforgeeks.org/tiling-problem/)  
 
 ---
 
 ### 📂 Resources  
-- 🔗 [Solution Code](Day_18/Tiling/tileProblem.java)  
-- 🔗 [Dry Run](Day_18/Tiling/Dry_Run.md)  
-- 🔗 [Detailed Explanation](Day_18/Tiling/explanation.md)  
+- 🔗 [Solution Code](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/9430126c45b7ee7ce0cc40c51a7dac77eb089698/Day_18/Tiling/tileProblem.java)  
+- 🔗 [Dry Run](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/9430126c45b7ee7ce0cc40c51a7dac77eb089698/Day_18/Tiling/Dry_Run.md)  
+- 🔗 [Detailed Explanation](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/9430126c45b7ee7ce0cc40c51a7dac77eb089698/Day_18/Tiling/explanation.md)  
 
 ---
 
@@ -107,9 +107,9 @@ Try implementing it first. It's a foundational recurrence problem frequently ask
 ---
 
 ### 📂 Resources  
-- 🔗 [Solution Code](Day_18/PartyGuests/ways_to_call_guests.java)  
-- 🔗 [Dry Run](Day_18/PartyGuests/Dry_Run.md)  
-- 🔗 [Detailed Explanation](Day_18/PartyGuests/explanation.md)  
+- 🔗 [Solution Code](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/9430126c45b7ee7ce0cc40c51a7dac77eb089698/Day_18/PartyGuests/ways_to_call_guests.java)  
+- 🔗 [Dry Run](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/9430126c45b7ee7ce0cc40c51a7dac77eb089698/Day_18/PartyGuests/Dry_Run.md)  
+- 🔗 [Detailed Explanation](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/9430126c45b7ee7ce0cc40c51a7dac77eb089698/Day_18/PartyGuests/explanation.md)  
 
 ---
 
