@@ -85,6 +85,7 @@ Navigate through my **#100DaysOfCode** journey. Each link leads to detailed note
 | Day 15  | **Recursion – Classical Problems (Part 1)** | [Notes](Day_15/notes.md)               | [Practice Problems](Day_15/Practice_Problems)         | ✅ Done |
 | Day 16  | **Recursion – Classical Problems (Part 2)** | [Notes](Day_16/notes.md)               | [Practice Problems](Day_16/Practice_Problems)         | ✅ Done |
 | Day 17  | **Recursion – Permutations & Maze Paths**              | [Notes](Day_17/notes.md)               | [Permutation](Day_17/Permutation/permutation.java), [Maze](Day_17/Maze/maze.java) | ✅ Done   |
+| Day 18  | **Recursion – Tiling Problem and Friend Pairing Problem**              | [Notes](Day_18/notes.md)               | [tileProblem](Day_18/Tiling/tileProblem.java), [waysToCallGuests](Day_18/PartyGuests/ways_to_call_guests.java) | ✅ Done   |
 | ...     | *(More days coming soon!)* | [Link to Day_XX/notes.md](Day_XX/notes.md) | [Link to Day_XX/Practice_Problems](Day_XX/Practice_Problems) | In Progress |
 
 ---

@@ -52,7 +52,7 @@ Try solving before checking the code — the logic remains the same across most 
 
 ### 📂 Resources  
 - 🔗 [Solution Code](Day_18/Tiling/tileProblem.java)  
-- 🔗 [Dry Run](Day_18/Tiling/Dry_Run_Tiling.md)  
+- 🔗 [Dry Run](Day_18/Tiling/Dry_Run.md)  
 - 🔗 [Detailed Explanation](Day_18/Tiling/explanation.md)  
 
 ---
@@ -108,7 +108,7 @@ Try implementing it first. It's a foundational recurrence problem frequently ask
 
 ### 📂 Resources  
 - 🔗 [Solution Code](Day_18/PartyGuests/ways_to_call_guests.java)  
-- 🔗 [Dry Run](Day_18/PartyGuests/Dry_Run_Party.md)  
+- 🔗 [Dry Run](Day_18/PartyGuests/Dry_Run.md)  
 - 🔗 [Detailed Explanation](Day_18/PartyGuests/explanation.md)  
 
 ---
