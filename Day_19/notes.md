@@ -241,7 +241,7 @@ call(0, [])
 
   * Description: Place `n` queens on an `n x n` chessboard so that no two queens threaten each other. Print all valid board configurations.
   * Code File: [N\_queen.java](Practice_Problems/N_queen.java)
-  * 🔁 [Modified Version (for PythonTutor)](modified_Code/N_Queen.java)
+  * 🔁 [Modified Version (for PythonTutor)](modified_Code/N_queen.java)
 
 ---
 
