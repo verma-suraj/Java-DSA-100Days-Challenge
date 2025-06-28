@@ -234,14 +234,14 @@ call(0, [])
 * **Problem 1: Solve a standard 9x9 Sudoku puzzle using Backtracking.**
 
   * Description: Fill in a 9x9 grid so every row, column, and 3x3 subgrid contains digits 1–9 exactly once.
-  * Code File: [Sudoku.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_19/Practice_Problems/Sudoku.java)
-  * 🔁 [Modified Version (for PythonTutor)](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_19/Modified_Code/Sudoku.java)
+  * Code File: [Sudoku.java](Practice_Problems/Sudoku.java)
+  * 🔁 [Modified Version (for PythonTutor)](Modified_Code/Sudoku.java)
 
 * **Problem 2: Solve the N-Queens problem using Backtracking.**
 
   * Description: Place `n` queens on an `n x n` chessboard so that no two queens threaten each other. Print all valid board configurations.
-  * Code File: [N\_queen.java](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_19/Practice_Problems/N_queen.java)
-  * 🔁 [Modified Version (for PythonTutor)](https://github.com/verma-suraj/Java-DSA-100Days-Challenge/blob/main/Day_19/Modified_Code/N_queen.java)
+  * Code File: [N\_queen.java](Practice_problems/N_queen.java)
+  * 🔁 [Modified Version (for PythonTutor)](Modified_Code/N_Queen.java)
 
 ---
 
