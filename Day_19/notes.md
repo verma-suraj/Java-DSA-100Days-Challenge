@@ -235,13 +235,13 @@ call(0, [])
 
   * Description: Fill in a 9x9 grid so every row, column, and 3x3 subgrid contains digits 1–9 exactly once.
   * Code File: [Sudoku.java](Practice_Problems/Sudoku.java)
-  * 🔁 [Modified Version (for PythonTutor)](Modified_Code/Sudoku.java)
+  * 🔁 [Modified Version (for PythonTutor)](modified_Code/Sudoku.java)
 
 * **Problem 2: Solve the N-Queens problem using Backtracking.**
 
   * Description: Place `n` queens on an `n x n` chessboard so that no two queens threaten each other. Print all valid board configurations.
-  * Code File: [N\_queen.java](Practice_problems/N_queen.java)
-  * 🔁 [Modified Version (for PythonTutor)](Modified_Code/N_Queen.java)
+  * Code File: [N\_queen.java](Practice_Problems/N_queen.java)
+  * 🔁 [Modified Version (for PythonTutor)](modified_Code/N_Queen.java)
 
 ---
 
